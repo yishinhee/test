@@ -28,23 +28,23 @@
 
 ### Palliative
 
-> - Pembrolizumab+Pemetrexed+Carboplatin (1st line)
-> - Pembrolizumab+Pemetrexed+Cisplatin (1st line)
-> - Pembrolizumab+Paclitaxel+Carboplatin (1st line)
+- Pembrolizumab+Pemetrexed+Carboplatin (1st line)
+- Pembrolizumab+Pemetrexed+Cisplatin (1st line)
+- Pembrolizumab+Paclitaxel+Carboplatin (1st line)
 
-> - Pembrolizumab (1st line)
-> - Pembrolizumab (≥2nd line)
-> - Nivolumab (≥2nd line, q 2 weeks)
-> - Atezolizumab (≥2nd line)
+- Pembrolizumab (1st line)
+- Pembrolizumab (≥2nd line)
+- Nivolumab (≥2nd line, q 2 weeks)
+- Atezolizumab (≥2nd line)
 
-> - Amivantamab (허가만족)
+- Amivantamab (허가만족)
 
-> - Trastuzumab Deruxtecan (허가만족)
+- Trastuzumab Deruxtecan (허가만족)
 
-> - Pemetrexed (≥2nd line)
-> - Pemetrexed (Maintenance)
-> - Pemetrexed/Cisplatin
-> - Pemetrexed/Carboplatin
+- Pemetrexed (≥2nd line)
+- Pemetrexed (Maintenance)
+- Pemetrexed/Cisplatin
+- Pemetrexed/Carboplatin
 
 - Docetaxel
 - Weekly docetaxel
