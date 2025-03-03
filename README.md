@@ -25,7 +25,6 @@
 * CCRT with weekly TC
 * Durvalumab (Consolidation)
 
-
 ### Palliative
 * Pembrolizumab+Pemetrexed+Carboplatin (1st line)
 * Pembrolizumab+Pemetrexed+Cisplatin (1st line)
