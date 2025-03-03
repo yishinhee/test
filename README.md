@@ -29,7 +29,7 @@
 * Pembrolizumab+Pemetrexed+Carboplatin (1st line)
 * Pembrolizumab+Pemetrexed+Cisplatin (1st line)
 * Pembrolizumab+Paclitaxel+Carboplatin (1st line)
-* 
+  
 * Pembrolizumab (1st line)
 * Pembrolizumab (≥2nd line)
 * Nivolumab (≥2nd line, q 2 weeks)
